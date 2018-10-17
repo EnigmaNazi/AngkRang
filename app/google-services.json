@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "398030243427",
+    "firebase_url": "https://angkrang-c7.firebaseio.com",
+    "project_id": "angkrang-c7",
+    "storage_bucket": "angkrang-c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398030243427:android:dea2933a5d1a71a3",
+        "android_client_info": {
+          "package_name": "com.enigmanazi.angkrang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398030243427-o16qop4b2j162sm4bphbnuuem29aqtk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enigmanazi.angkrang",
+            "certificate_hash": "be5074eacedcc8ad163e26ff58e5a93720c50d56"
+          }
+        },
+        {
+          "client_id": "398030243427-lelp1bn2kt56ad1peliuls044ocdau1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhPu_qX_K0sSnJuHQjVPS8OXm5W6Xa7Ko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398030243427-lelp1bn2kt56ad1peliuls044ocdau1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

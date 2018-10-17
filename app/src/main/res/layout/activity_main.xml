@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.enigmanazi.angkrang.MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/angkrang"/>
+    <Button
+        android:id="@+id/driver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffff"
+        android:background="#26a69a"
+        android:text="Pengemudi" />
+
+    <Button
+        android:id="@+id/customer"
+        android:layout_marginTop="10dp"
+        android:textColor="#ffff"
+        android:background="#26a69a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pelanggan" />
+
+    <TextView
+        android:layout_marginTop="55dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Copyright @ENIGMA DEV"
+        android:textAlignment="center"/>
+
+</LinearLayout>
